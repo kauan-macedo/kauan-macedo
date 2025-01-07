@@ -1,4 +1,4 @@
-## Hello, I am Kauan 👻
+## Hello
 
 **My Skills**
 
