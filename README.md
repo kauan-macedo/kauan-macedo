@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Networking Student | DevOps Enthusiast | Linux & Automation Advocate</strong>
+  <strong> Networking Student | Software Analysis & Development Student | DevOps Enthusiast | Linux & Automation Advocate</strong>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <br>
 
 ## 🧑‍💻 About Me
-I am a **Computer Networking** student passionate about automation and the **Open Source** ecosystem. My goal is to build resilient, scalable, and automated infrastructures. Currently, I am diving deep into network protocols and systems architecture.
+I am a **Computer Networking Student | Software Analysis & Development Student** passionate about automation and the **Open Source** ecosystem. My goal is to build resilient, scalable, and automated infrastructures. Currently, I am diving deep into network protocols and systems architecture.
 
 ---
 
