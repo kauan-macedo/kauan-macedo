@@ -1,93 +1,65 @@
 <h1 align="center">
-  Hi there, I'm Kauan Macedo 👋
+  Hi, I'm Kauan Macedo
 </h1>
 
 <p align="center">
-  <em>Software Analysis and Development student with a focus on Data Science and DevOps.</em>
+  <strong>Networking Student | DevOps Enthusiast | Linux & Automation Advocate</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Focus-Infrastructure_as_Code-blue?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Current_Studies-CCNA_Networking-green?style=flat-square" alt="Studies">
+  <img src="https://img.shields.io/badge/OS-Linux_Kernel-yellow?style=flat-square" alt="OS">
 </p>
 
 <br>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🧑‍💻 About Me
+I am a **Computer Networking** student passionate about automation and the **Open Source** ecosystem. My goal is to build resilient, scalable, and automated infrastructures. Currently, I am diving deep into network protocols and systems architecture.
 
-<h3 align="center">Backend & Databases</h3>
-<p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://fastapi.tiangolo.com" target="_blank">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </a>
-  <a href="https://www.sqlalchemy.org" target="_blank">
-    <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy (ORM)">
-  </a>
+---
+
+## 🛠️ Technology Stack
+
+### 🏗️ Infrastructure & DevOps
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" title="CI/CD"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" title="IaC"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" title="Nginx"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  </a>
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  </a>
-  <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  </a>
+### 📡 Networking & Security
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-005073?style=for-the-badge&logo=cisco&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Network_Security-FF0000?style=for-the-badge&logo=guard&logoColor=white" />
 </p>
 
-<h3 align="center">DevOps, OS & Tools</h3>
-<p align="center">
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
-  <a href="https://www.docker.com" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  </a>
-  <a href="https://www.linux.org" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  </a>
-  <a href="https://www.gnu.org/software/bash" target="_blank">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-  </a>
+### 🐍 Scripting & Automation
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" title="Shell Scripting"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
 </p>
 
-<br>
+---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
+## 📊 Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kauan-macedo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Kauan Macedo's GitHub Stats" />
-  
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-macedo&layout=compact&langs_count=6&theme=github_dark" alt="Kauan Macedo's Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kauan-macedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Kauan's Stats" />
 </p>
 
-<br>
+---
 
-<h2 align="center">📫 Get in Touch</h2>
-
-<p align="center">
+## 📫 Connect with me
+<p align="left">
   <a href="https://www.linkedin.com/in/kauanmacedo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:kauanmacedo85@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/kauan-macedo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="mailto:kauanmacedo85@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
