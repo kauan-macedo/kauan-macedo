@@ -24,6 +24,7 @@ I enjoy building nice frontends, solid backends, and understanding how data actu
 Right now, I'm focused on **React + Tailwind** for the frontend, **Node + Express** for the backend, and using **Docker** for deployment.
 
 I'm also a networking enthusiast, very curious about how the internet really works.
+
 ---
 
 ## 🛠️ Technology Stack
